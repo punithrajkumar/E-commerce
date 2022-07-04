@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/E-commerce/static/css/main.401e422b.css",
+    "main.js": "/E-commerce/static/js/main.0c5ae7e5.js",
+    "static/js/787.0c3f432a.chunk.js": "/E-commerce/static/js/787.0c3f432a.chunk.js",
+    "static/media/Laptop.jpg": "/E-commerce/static/media/Laptop.58b44827fdf579028040.jpg",
+    "static/media/HairCare.jpg": "/E-commerce/static/media/HairCare.e6f82d621e768ea25776.jpg",
+    "static/media/Honey.jpg": "/E-commerce/static/media/Honey.6d23f3845c801b2eb685.jpg",
+    "static/media/Bitcoin.jpg": "/E-commerce/static/media/Bitcoin.d2d8d00053fc92bd0ef5.jpg",
+    "static/media/Mobile.jpg": "/E-commerce/static/media/Mobile.e639ce6866c31dd15518.jpg",
+    "static/media/HandClock.jpg": "/E-commerce/static/media/HandClock.7816f085ed8caa15f6c6.jpg",
+    "static/media/Ipod.jpg": "/E-commerce/static/media/Ipod.84a61f516b424f9b92bf.jpg",
+    "static/media/Headphone.jpg": "/E-commerce/static/media/Headphone.ec3ec9afeddf7680b7df.jpg",
+    "index.html": "/E-commerce/index.html",
+    "main.401e422b.css.map": "/E-commerce/static/css/main.401e422b.css.map",
+    "main.0c5ae7e5.js.map": "/E-commerce/static/js/main.0c5ae7e5.js.map",
+    "787.0c3f432a.chunk.js.map": "/E-commerce/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.401e422b.css",
+    "static/js/main.0c5ae7e5.js"
+  ]
+}
