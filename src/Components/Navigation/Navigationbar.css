@@ -1,0 +1,132 @@
+.link-type {
+    text-decoration: none;
+}
+
+.img-shape {
+    border-radius: 100%;
+}
+
+
+.nav-outline {
+    outline: none;
+}
+
+.navbg {
+    background: linear-gradient(to right, #fdb54f 0%, #fedc57 100%);
+}
+
+.navcolor {
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.nav-font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.navtoggle {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.navtoggle:focus {
+    outline: none;
+}
+
+.navcolor {
+    color: white;
+}
+
+
+.header-style {
+    background: linear-gradient(to right, #fdb54f 0%, #fedc57 100%);
+    font-size: larger;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dropdown-menu,
+.dropdown-item .show {
+    background-color: white;
+    color: black;
+}
+
+.navbar-brand {
+    position: absolute;
+    padding-left: 10px;
+    top: 10px;
+}
+
+.dropdown-item:hover {
+    background-color: whitesmoke;
+    color: black;
+    border: none;
+}
+
+/* .sBox {
+    width: 100%;
+    position: relative;
+    bottom: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+.header-style .navbar .navbar-expand-xxl .navbar-dark .sticky-top {
+    height: auto;
+}
+
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-lg,
+.navbar>.container-md,
+.navbar>.container-sm,
+.navbar>.container-xl,
+.navbar>.container-xxl {
+    position: absolute;
+    bottom:0vh;
+
+}
+
+.navbar-expand-xxl {
+    height: 16vh;
+}
+
+@media screen and (max-width: 1400px) {
+    .dropdown-menu {
+        border: none;
+        background-color: transparent;
+    }
+
+    .dropdown-item {
+        color: whitesmoke;
+    }
+
+    .navbar-brand {
+        position: relative;
+        padding-left: 10px;
+        margin-right: 100%;
+        top: 0vh;
+    }
+
+
+    .navbar>.container,
+    .navbar>.container-fluid,
+    .navbar>.container-lg,
+    .navbar>.container-md,
+    .navbar>.container-sm,
+    .navbar>.container-xl,
+    .navbar>.container-xxl {
+        position: relative;
+        top: 10px;
+
+    }
+
+    .navbar-expand-xxl {
+        height: auto;
+    }
+
+}

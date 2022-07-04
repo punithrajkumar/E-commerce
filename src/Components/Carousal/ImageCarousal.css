@@ -1,0 +1,11 @@
+.carousel-adjust {
+    position: relative;
+}
+
+.img-adjust {
+    
+    height: 35vw;
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
+}

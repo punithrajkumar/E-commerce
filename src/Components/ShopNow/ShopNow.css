@@ -1,0 +1,47 @@
+.col-md-4>img,
+.col-sm-4>img,
+.col-md-5>img,
+.col-sm-5>img,
+.col-md-6>img,
+.col-sm-6>img,
+.col-md-7>img,
+.col-sm-7>img {
+    height: 420px;
+    padding: 1vh;
+}
+
+.col-md-4,
+.col-sm-4,
+.col-md-5,
+.col-sm-5,
+.col-md-6,
+.col-sm-6,
+.col-md-7,
+.col-sm-7 {
+    position: relative;
+}
+
+.sn-bg {
+    position: absolute;
+    background-color: rgb(0, 0, 0, 0.25);
+    color: white;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    bottom: 50px;
+    margin: 20px;
+    border-radius: 0.1cm;
+}
+
+.col-md-4>.btn,
+.col-sm-4>.btn,
+.col-md-5>.btn,
+.col-sm-5>.btn,
+.col-md-6>.btn,
+.col-sm-6>.btn,
+.col-md-7>.btn,
+.col-sm-7>.btn {
+    position: absolute;
+    bottom: 27px;
+    left: 32px;
+}

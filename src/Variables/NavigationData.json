@@ -1,0 +1,77 @@
+{
+  "Electronics": [
+    "Mobiles",
+    "Mobile Accessories",
+    "Smart Wearable",
+    "Health Care Appliances",
+    "Laptops",
+    "Desktop PCs",
+    "Gaming & Accessories",
+    "Computer Accessories",
+    "Computer Peripherals",
+    "Tablets",
+    "Speakers",
+    "Smart Home Automation",
+    "Camera",
+    "Camera Accessories",
+    "Network Computers"
+  ],
+  "TV's & Appliances": [
+    "Mobiles",
+    "Washing Machine",
+    "Air Conditioner",
+    "Kitchen Appliances"
+  ],
+  "Men": [
+    "Footer",
+    "Footer",
+    "Men's Groomimg",
+    "Top Wear",
+    "Bottom Wear",
+    "Winter Wear",
+    "Ethnic Wear",
+    "Innerwear & Loungewear",
+    "Watches",
+    "Accessories",
+    "Personal Care Appliances"
+  ],
+  "Women": [
+    "Footer",
+    "Lingeries & Sleepwear",
+    "Ethnic Wear",
+    "FootEthnic Bottomser",
+    "Sandals",
+    "Shoes",
+    "Personal Care & Appliances",
+    "Beauty & Grooming",
+    "Jewellery",
+    "Accessories"
+  ],
+  "Home & Furniture": [
+    "Kitchen, Cookware & Serveware",
+    "Tableware & Dinnerware",
+    "Office & Study Furniture",
+    "DIY Furniture",
+    "Furnishing",
+    "Smart Home Automation",
+    "Home Improvement",
+    "Home Decor",
+    "Home Lighting",
+    "Pet Supplies",
+    "Gardening Storage"
+  ],
+  "Sports, Books & More": [
+    "Sports",
+    "Exercise Fitness",
+    "Food Essentials",
+    "Health & Nutrition",
+    "Books",
+    "Stationary",
+    "Auto Accessories",
+    "Industrial & Scientific tools",
+    "Medical Supplies",
+    "Music",
+    "Gaming"
+  ]
+}
+
